@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kalpa Teli</h1>
+<h3 align="center">Frontend Developer | UI/UX Designer | MERN Stack Explorer</h3>
 
-<!--
-**Kalpa07/Kalpa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=500&color=F97316&center=true&vCenter=true&lines=Creative+Frontend+Developer;UI%2FUX+Design+Enthusiast;MERN+Stack+Explorer;Open+to+Collaboration+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Computer Engineering Graduate  
+- 🧠 Passionate about creating animated, user-friendly, and accessible web apps  
+- ✨ I recently built my [**Animated Portfolio Website**](https://kalpateli07.netlify.app/) using **React + Tailwind + Framer Motion**  
+- 🌱 Currently exploring **MERN Stack**, **Web Animations**, and **Design Systems**  
+- 💼 1.5 years of experience at Trellissoft as a Junior Software Developer  
+- 🎨 I love puzzles, design, baking, and dancing
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** React, Angular, JavaScript, TypeScript, Tailwind, HTML/CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+**Design:** Figma, Adobe Illustrator  
+**Tools:** Git, Netlify, Postman, VS Code
+
+---
+
+### 📌 Featured Projects
+
+- 🌐 [**Animated Portfolio Website**](https://kalpateli07.netlify.app/) – My personal brand with scroll-driven UI and paper plane animations  
+- 💬 [**Nexvent**](https://github.com/Kalpa07/Nexvent) – Event-based web app (UI/UX focused)  
+- 📋 [**HRMS (Angular)**](https://github.com/Kalpa07/Angular-Practice) – Human Resource Management System using Angular
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+### 📊 My GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpa07&theme=react" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpa07&layout=compact&theme=react" height="165" />
+</p>
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: [kalpa.teli07@gmail.com](mailto:kalpa.teli07@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kalpa-teli-4b3489204/)  
+- 🖼️ [Portfolio](https://kalpateli07.netlify.app/)  
+
+---
+
+_Thanks for visiting! ✨ Let’s build something amazing together._
+
