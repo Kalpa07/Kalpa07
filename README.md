@@ -11,7 +11,7 @@
 
 - 🎓 Computer Engineering Graduate  
 - 🧠 Passionate about creating animated, user-friendly, and accessible web apps  
-- ✨ I recently built my [**Animated Portfolio Website**](https://kalpateli07.netlify.app/) using **React + Tailwind + Framer Motion**  
+- ✨ I recently built my [**Portfolio Website**](https://kalpateli07.netlify.app/) using **React + Tailwind + Framer Motion**  
 - 🌱 Currently exploring **MERN Stack**, **Web Animations**, and **Design Systems**  
 - 💼 1.5 years of experience at Trellissoft as a Junior Software Developer  
 - 🎨 I love puzzles, design, baking, and dancing
@@ -24,13 +24,13 @@
 **Backend:** Node.js, Express  
 **Database:** MongoDB, MySQL  
 **Design:** Figma, Adobe Illustrator  
-**Tools:** Git, Netlify, Postman, VS Code
+**Tools:** GitHub, Netlify, Postman, VS Code
 
 ---
 
 ### 📌 Featured Projects
 
-- 🌐 [**Animated Portfolio Website**](https://kalpateli07.netlify.app/) – My personal brand with scroll-driven UI and paper plane animations  
+- 🌐 [**Portfolio Website**](https://kalpateli07.netlify.app/) – My personal brand with scroll-driven UI and paper plane animations  
 - 💬 [**Nexvent**](https://github.com/Kalpa07/Nexvent) – Event-based web app (UI/UX focused)  
 - 📋 [**HRMS (Angular)**](https://github.com/Kalpa07/Angular-Practice) – Human Resource Management System using Angular
 
