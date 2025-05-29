@@ -12,15 +12,14 @@
 - 🎓 Computer Engineering Graduate  
 - 🧠 Passionate about creating animated, user-friendly, and accessible web apps  
 - ✨ I recently built my [**Portfolio Website**](https://kalpateli07.netlify.app/) using **React + Tailwind + Framer Motion**  
-- 🌱 Currently exploring **MERN Stack**, **Web Animations**, and **Design Systems**  
+- 🌱 Currently Working on [**Kartana Website**](https://github.com/Kalpa07/Kartana), **Web 2** + **Web 3**  
 - 💼 1.5 years of experience at Trellissoft as a Junior Software Developer  
-- 🎨 I love puzzles, design, baking, and dancing
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React, Angular, JavaScript, TypeScript, Tailwind, HTML/CSS  
+**Frontend:** React, Angular, JavaScript, TypeScript, Tailwind, HTML/CSS, currently exploring Next.js  
 **Backend:** Node.js, Express  
 **Database:** MongoDB, MySQL  
 **Design:** Figma, Adobe Illustrator  
@@ -33,7 +32,8 @@
 - 🌐 [**Portfolio Website**](https://kalpateli07.netlify.app/) – My personal brand with scroll-driven UI and paper plane animations  
 - 💬 [**Nexvent**](https://github.com/Kalpa07/Nexvent) – Event-based web app (UI/UX focused)  
 - 📋 [**HRMS (Angular)**](https://github.com/Kalpa07/Angular-Practice) – Human Resource Management System using Angular
-
+- 📋 [**Kartana (Next.js)**](https://github.com/Kalpa07/Kartana) – E-commerce website web2+ web3 (currently in progress)
+  
 ---
 
 ### 📈 GitHub Stats
