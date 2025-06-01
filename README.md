@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalpa Teli</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | MERN Stack Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=500&color=F97316&center=true&vCenter=true&lines=Creative+Frontend+Developer;UI%2FUX+Design+Enthusiast;MERN+Stack+Explorer;Open+to+Collaboration+%F0%9F%91%8D" alt="Typing SVG" />
-</p>
-
----
-
 ### 👩‍💻 About Me
 
 - 🎓 Computer Engineering Graduate  
