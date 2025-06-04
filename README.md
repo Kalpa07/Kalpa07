@@ -7,7 +7,7 @@
 - Passionate about creating animated, user-friendly, and accessible web apps  
 - I recently built my [**Portfolio Website**](https://kalpateli07.netlify.app/) using **React + Tailwind + Framer Motion**  
 - Currently Working on [**Kartana Website**](https://github.com/Kalpa07/Kartana), **Web 2** + **Web 3**  
-- 1.5 years of experience at Trellissoft as a Junior Software Developer  
+- 1.6 years of experience at Trellissoft as a Junior Software Developer  
 
 ---
 
